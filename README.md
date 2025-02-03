@@ -3,7 +3,7 @@
 
 <h1>Hi there! 👋</h1>
 
-<p>Welcome to my GitHub profile! I'm a <strong>Masters Student</strong>strong> and <strong>Industrial Engineer</strong> with a strong focus on <strong>optimisation</strong> and <strong>mathematical modelling</strong>. My passion lies in applying analytical problem-solving techniques to fields such as <strong>motorsport racing</strong> and <strong>aerodynamics</strong>.</p>
+<p>Welcome to my GitHub profile! I'm a <strong>Masters Student</strong> and <strong>Industrial Engineer</strong> with a strong focus on <strong>optimisation</strong> and <strong>mathematical modelling</strong>. My passion lies in applying analytical problem-solving techniques to fields such as <strong>motorsport racing</strong> and <strong>aerodynamics</strong>.</p>
 
 <h2>🔭 Current Work</h2>
 <p>I am currently pursuing my <strong>Master’s degree</strong>, where I am developing a <strong>mathematical model</strong> to assist in the <strong>design optimisation of airfoils for sailplanes</strong>, taking into account varying <strong>weather conditions</strong>. This project aligns with my passion for <strong>aerodynamics and performance engineering</strong>.</p>
