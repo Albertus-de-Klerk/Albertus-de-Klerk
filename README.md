@@ -15,9 +15,9 @@ focused on high-performance systems, motorsport applications, and computational 
 
 <h2>Note on Repositories</h2>
 <p>
-All repositories are kept private. This is intentional, gievn my ongoing research, 
+All repositories are kept private. This is intentional, given my ongoing research, 
 or original modelling and software development that I prefer not to make publicly 
-accessible or for AI companies to train their models on.
+accessible for AI companies to train their models on.
 </p>
 
 <h2>Core Areas</h2>
