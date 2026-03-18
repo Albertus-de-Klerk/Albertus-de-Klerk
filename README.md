@@ -13,6 +13,13 @@ This repository contains a collection of engineering, simulation, and software d
 focused on high-performance systems, motorsport applications, and computational modelling.
 </p>
 
+<h2>Note on Repositories</h2>
+<p>
+All repositories are kept private. This is intentional, gievn my ongoing research, 
+or original modelling and software development that I prefer not to make publicly 
+accessible or for AI companies to train their models on.
+</p>
+
 <h2>Core Areas</h2>
 <ul>
     <li><strong>Simulation & Modelling:</strong> High-fidelity modelling of dynamic systems, including vehicle performance, aerodynamic behaviour, and optimisation frameworks.</li>
@@ -25,14 +32,14 @@ focused on high-performance systems, motorsport applications, and computational 
 
 <h2>Notable Projects</h2>
 <ul>
-    <li>CFD solver architecture redesign and optimisation (Rust-based)</li>
-    <li>Formula 1 race strategy optimisation model (MILP-based)</li>
-    <li>Endurance race strategy and telemetry systems (solar racing)</li>
-    <li>Aerodynamic geometry optimisation for racing sailplanes</li>
-    <li>Real-time race-data processing and visualisation tools</li>
-    <li>CFD automation pipelines for aerodynamic workflows</li>
-    <li>Vehicle control and energy management systems</li>
-    <li>Hypercar telemetry and trackside sensor data systems</li>
+    <li>CFD solver architecture redesign and optimisation (Rust/bash)</li>
+    <li>Formula 1 race strategy, MILP model (elytica/Python)</li>
+    <li>Endurance race strategy and telemetry systems (C++/C)</li>
+    <li>Aerodynamic geometry optimisation for racing sailplanes (Python/bash)</li>
+    <li>Real-time race-data processing and visualisation tools (C#)</li>
+    <li>CFD automation pipelines for aerodynamic workflows (Python/Java)</li>
+    <li>Vehicle control and energy management systems (MATLAB)</li>
+    <li>Linux environment customisation (LUA/Other)</li>
 </ul>
 
 <h2>Technologies & Languages</h2>
@@ -43,6 +50,8 @@ focused on high-performance systems, motorsport applications, and computational 
     <li>SQL</li>
     <li>MATLAB</li>
     <li>Java</li>
+    <li>bash</li>
+    <li>LUA</li>
 </ul>
 
 <h2>Systems & Tooling</h2>
@@ -52,13 +61,6 @@ focused on high-performance systems, motorsport applications, and computational 
     <li>Git version control and collaborative workflows</li>
     <li>Numerical methods, optimisation algorithms, and simulation frameworks</li>
 </ul>
-
-<h2>Note on Repositories</h2>
-<p>
-Most repositories are kept private. This is intentional, as many projects involve proprietary work, 
-ongoing research, or original modelling and software development that I prefer not to make publicly 
-accessible or usable for automated data extraction.
-</p>
 
 </body>
 </html>
